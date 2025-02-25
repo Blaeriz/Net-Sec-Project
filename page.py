@@ -21,7 +21,7 @@ st.divider()
 ip_container = st.container(border=True)
 
 # --- Top Attacking IPs ---
-ip_container.header("☠️ Top Attacking IPs")
+ip_container.header("Top Attacking IPs")
 
 # if not top_ips.empty:
 #     # Create a larger figure for better visibility
